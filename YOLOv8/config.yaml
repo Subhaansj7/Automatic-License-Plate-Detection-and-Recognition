@@ -1,0 +1,11 @@
+
+path: D:/DE Projects/Automatic License Plate Detection and Recognition/Dataset # dataset root dir
+train: D:/DE Projects/Automatic License Plate Detection and Recognition/Dataset/train  # train images (relative to 'path')
+val: D:/DE Projects/Automatic License Plate Detection and Recognition/Dataset/valid # val images (relative to 'path')
+
+# Classes
+
+
+nc: 1
+names: ['License_Plate']
+0: alpaca
